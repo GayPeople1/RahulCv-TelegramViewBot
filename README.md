@@ -8,7 +8,7 @@
 Arguments Exmaple + Modes
 
 ```python
-# In this examples we are sending to channel @tviews and the post number is ( 4 )
+# In this examples we are sending to channel @rahulcvmodz and the post number is ( 4 )
 # e.g: https://t.me/rahulcvmodz/4
 ```
 
@@ -18,7 +18,7 @@ Arguments Exmaple + Modes
 # You can update the sources from the auto dir
 # This mode run forever it auto resecrap proxyes when the first loop done
 
-tviews.py --mode auto --channel tviews --post 4
+tviews.py --mode auto --channel rahulcvmodz --post 4
 ```
 
 ```python
